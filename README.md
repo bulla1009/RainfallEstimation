@@ -9,6 +9,4 @@ This repository contains the code to find out a relationship between Z (reflecti
 3. Modelling : Plotted the values of Z and R and found a relation adhering to the Marshall Palmer Equation. 
 
 Visualisation 
-
-Contour Plot of Reflectivity for 4th December 10:10 IST
-![image](https://github.com/bulla1009/RainfallEstimation/blob/main/plot.png)
+![Contour Plot of Reflectivity for 4th December 10:10 IST](https://github.com/bulla1009/RainfallEstimation/blob/main/plot.png)
