@@ -1,4 +1,5 @@
 # Real Time Rainfall Estimation using Z values
+Developed a relation between Z and R for Kalpakkam region
 
 ### Overview
 
