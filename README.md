@@ -5,7 +5,7 @@
 This repository contains the code to find out a relationship between Z (reflectivity of microwaves) from the radar and R (rainfall rate) using the Marshall Palmer Relation specific to the Kalpakkam Region.
 
 Marshall Palmer Equation : 
-![equation](https://latex.codecogs.com/svg.image?\bg{black}&space;Z=aR^{b}{\color{Magenta}})
+![equation](http://www.sciweavers.org/tex2img.php?eq=Z%20%3D%20aR%5E%7Bb%7D&bc=Transparent&fc=White&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Z = aR^{b}" width="69" height="19")
 where a and b are the site specific coefficients to be found 
 
 This project was divided into three parts : 
